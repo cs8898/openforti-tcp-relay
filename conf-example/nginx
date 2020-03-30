@@ -1,0 +1,11 @@
+## place in sites-enabled
+
+stream {
+
+    server {
+        listen 587;
+        # smtp relay
+        proxy_pass my_smtp_host:587;
+    }
+
+}

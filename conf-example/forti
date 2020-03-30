@@ -1,0 +1,5 @@
+host = vpn.server.tld
+port = 443
+username = foo
+password = bar
+trusted-cert = [SOME CERT HASH]
