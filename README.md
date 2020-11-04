@@ -1,6 +1,6 @@
 # THI MAIL RELAY
 
-THI only allows SMTP from VPN  
+THI only allows SMTP from VPN (meanwhile IMAP, TCP 993, is also only acceptablie via VPN)  
 Here is the `containerized` fix for the problem...
 
 ## Why
